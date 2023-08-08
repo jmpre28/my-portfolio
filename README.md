@@ -30,7 +30,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Examples
 
-<img src="./assets/images/ScreenshotPortfolio.jpg" alt="Homepage of the application."
-            width=800 height=600>
+<img src="./assets/images/ScreenshotPortfolio.jpg" alt="Homepage of the application." width=800 height=600>
 
 ### Week 2 Challenge of the UofU coding bootcamp.
