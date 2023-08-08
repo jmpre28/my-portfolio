@@ -30,6 +30,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Examples
 
-<img src="./assets/images/screenshot.jpg" alt="Homepage of portfolio." width=800 height=600>
+<img src="screenshot.jpg" alt="Homepage of portfolio." width=800 height=600>
 
 ### Week 2 Challenge of the UofU coding bootcamp.
